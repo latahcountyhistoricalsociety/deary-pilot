@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                                http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+    <Identify>
+        <oai:repositoryName>Deary Collection</oai:repositoryName>
+        <oai:baseURL>http://gateway.institution.org/oai/latahcountyhistoricalsociety.github.io/deary-pilot/oai.xml</oai:baseURL>
+        <oai:protocolVersion>2.0</oai:protocolVersion>
+        <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
+        <oai:earliestDatestamp>2021-08-17</oai:earliestDatestamp>
+        <oai:deletedRecord>no</oai:deletedRecord>
+        <oai:granularity>YYYY-MM-DD</oai:granularity>
+    </Identify>
+    <ListMetadataFormats>
+        <oai:metadataFormat>
+            <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+            <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+            <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+        </oai:metadataFormat>
+    </ListMetadataFormats>
+    <ListRecords metadataPrefix="oai_dc">
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Early town of Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1906-06-23</dc:date><dc:description>Panoramic view, Deary</dc:description>
+                    <dc:subject>Cabins; Trees; Homesteading; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Town of Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Town of Deary in 1910 which shows buildings on both sides of Main Street.</dc:description>
+                    <dc:subject>Trees; Frame buildings; Main Street; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Town of Deary from a distance</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1906</dc:date><dc:description>Panoramic view of Deary and Spud Hill in background.</dc:description>
+                    <dc:subject>Trees; Snow; Dirt road; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-007</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary in winter</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Snow on streets and rooftops of buildings in Deary.</dc:description>
+                    <dc:subject>Trees; Main Street; Snow; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-007</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-009</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Panorama of Deary </dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1911</dc:date><dc:description>Deary about 1911, looking northwest from a point not far from the school.  The McQueary Hotel hides part of the west side of Main Street.  Above it are the hardware and the drug store, both characterized by false fronts with peaks.  The flat roof between is part of the drug store.  Next is the box-like shape of the bank.  Up the street, partly hidden, is a larger building that at this time or later housed the Olson store, and over it is seen the roof of the depot.  The largest building on the east side of the street, the one with many windows, is the Carlson Hotel.  Above it, just below the railroad crossing, is the newspaper office.  (Description from the book, The Trees Grew Tall, by John B. Miller)</dc:description>
+                    <dc:subject>Trees; Main Street; Frame buildings; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-009</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-010</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main Street in Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1909</dc:date><dc:description>Deary about 1909, looking north across the main road, which is now the highway.  The first building on the left is the Don Sahlin Saloon.  Beyond the corner, with a false front facing east and a gable at rear facing south, is the Bill Smith store.  The buildings above are not seen clearly, but the peaked roofs of both the hardware and drug store can be distinguished, and the bank certainly existed.  Farther up and to the left is the railway station, and well beyond it the Hugh Henry house.  Buildings on the east (right) side of the street include the McQueary Hotel, the harness shop, and the Carlson Hotel.  In the right-hand section beyond the tracks is the McGown home.  (Descrption from the book, The Trees Grew Tall, by John B. Miller)</dc:description>
+                    <dc:subject>Trees; Frame buildings; Main Street; Spud Hill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-01-010</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-01-010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main Street and Post Office</dc:title>
+                    <dc:creator>Keith Petersen</dc:creator>
+                    <dc:date>1978-01</dc:date><dc:description>Main Street and Post Office in Deary, with flag flying and cars parked along the street.</dc:description>
+                    <dc:subject>Main Street; Downtown; Flags; Cars; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Children in parade on Main Street</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1920</dc:date><dc:description>School children in a parade at Fair time (note carousel in background) in Deary.</dc:description>
+                    <dc:subject>Main Street; Merry-go-round; Carousel; Parade; Spud Hill; Deary</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main Street of Deary with cars full of people</dc:title>
+                    <dc:creator>Anton Lee</dc:creator>
+                    <dc:date>1914</dc:date><dc:description>Deary Main Street with some event taking place.  People are on the board sidewalk and six cars are packed with people for either a parade or race!  On the left, are the pool hall, post office, Peterson building (Albert Pierce store), and a building (previously the Olson store) which at this date housed the barber shop and Dr. Faust's office.  The large building above the bank was, at this time, occupied either by Olson or Sam Anderson. The forward three cars of the line-up are a Reo, owned by Jorgeson, a Winton owned by Drury, and a Studebaker.</dc:description>
+                    <dc:subject>Main Street; Cars; Spud Hill; Dog; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-004</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main Street of Deary after fire</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1923</dc:date><dc:description>Main Street, Deary, after the fire in 1923, showing rubble, four men, broken sidewalk, and the Farmers Warehouse and Elevator Company elevator.</dc:description>
+                    <dc:subject>Fire; Elevator; Rubble; Sidewalk; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-004</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-005</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Automobile on Main Street in Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>The first car in Deary. Dick Wilkins and his Franklin car on Main Street.  Seated in car left to right: Mae Evans, Mae Balderson, Catherine Lunsford, Anna Hanson, Dick Wilkins, Ada Bower</dc:description>
+                    <dc:subject>Cars; Main Street; Franklin; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-005</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-006</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main Street of Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1913</dc:date><dc:description>Horse and people on Deary's Main Street.</dc:description>
+                    <dc:subject>Horses; Board sidewalk; Main Street; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-006</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-007</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Street scene in Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1918-05</dc:date><dc:description>Deary street scene, automobiles and people crowded around two flagpoles.  Spud Hill (alias Potato Hill or Mt. Deary) in background.</dc:description>
+                    <dc:subject>Cars; Flags; Dirt road; Board sidewalk; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-007</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-008</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>People and cars on Main Street</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1919</dc:date><dc:description>A crowd of people with cars in front of businesses on Main Street in Deary.  Caption says &quot;SELLING LIBERTY BONDS.&quot;</dc:description>
+                    <dc:subject>Cars; Businesses; Dirt road; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-008</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-010</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Main St. and Potato (Spud) Hill</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978</dc:date><dc:description>Main Street of Deary showing buildings and elevators, looking toward Spud Hill (alias Potato Hill or Mt. Deary).</dc:description>
+                    <dc:subject>Pickups; Elevator; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-010</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-011</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Hotel front and seated crowd</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1890</dc:date><dc:description>People sitting on the porch of the Deary Hotel, with a flag flying from an upper window.</dc:description>
+                    <dc:subject>Hotel; Flags; Porch; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-011</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-013</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary street scene</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1950</dc:date><dc:description>Deary street scene with Chevron station and cars probably on Main Street.</dc:description>
+                    <dc:subject>Cars; Gas station; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-02-013</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-02-013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Hotel</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1900</dc:date><dc:description>People sitting on the porch of the Deary Hotel, listening to a speaker, with a flag flying from an upper window.</dc:description>
+                    <dc:subject>Hotel; Porch; Flags; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Carlson &amp; Lensgraff General Merchandise store</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1905</dc:date><dc:description>Six adults and three children in front of Carlson and Lensegraff General Merchandise store in Deary.</dc:description>
+                    <dc:subject>General store; Fashion; Business; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Burkland Mill</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Burkland Mill near Deary</dc:description>
+                    <dc:subject>Lumber; Logging; Trees; Mill; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-004</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Horse logging</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1915</dc:date><dc:description>Joe Wells horse logging crew near Deary.  Men on the logpile are Joe, Roy and Chuck Wells.  Man on right is unidentified.  Joe had been born a slave in 1958, and was freed by the Civil War.  The Wells brothers took him as their ward and treated him like a brother.  Joe loved them equally, and took their surname.  When the Wells came West, Joe and his young wife came along.  His wife was named Lou, and their sons were Chuck and Roy, and daughter was Mary (Wells) King.</dc:description>
+                    <dc:subject>Horses; Logging; Logs; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-004</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-005</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>O. E. Mang, blacksmith</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Men and horses outside the blacksmith shop of O. E. Mang. Two houses are in the background.</dc:description>
+                    <dc:subject>Horses; Wagon; Blacksmith; Horse shoeing; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-005</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-006</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Lumber Company Plant and Yards</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1905</dc:date><dc:description>Stacks of lumber and Deary Lumber Company building.</dc:description>
+                    <dc:subject>Lumber Company; Lumber; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-006</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-007</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Pool Hall</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1905</dc:date><dc:description>Pool hall in Deary, including an old radio (Victrola?) on a counter and display cases containing cigar boxes and other items.  Two pans on the floor may have been used as spitoons or ash receptacles.  There is a man behind the counter and five men posing in the hall.</dc:description>
+                    <dc:subject>Pool hall; Pool cue sticks; Light fixture; Cigars; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-007</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-008</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Emery Olson Co. General Merchandise</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1915</dc:date><dc:description>Two men on the porch in front of the Emory Olson Co. General Merchandise store in Deary.  Below a window is a sign advertising cream separators.</dc:description>
+                    <dc:subject>General store; Window displays; Board sidewalk; Cream separators; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-008</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-009</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Depot</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1905</dc:date><dc:description>Deary Depot, with people standing on the platform, along with a wagon and two milk cans.</dc:description>
+                    <dc:subject>Railroad tracks; Train depot; Fashion; Milk cans; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-009</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-010</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>W.I &amp; M. Depot</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1905</dc:date><dc:description>Washington, Idaho &amp; Montana (W.I.&amp;M) Railroad Depot, locomotive and train in Deary.</dc:description>
+                    <dc:subject>Railroad tracks; Train depot; Steam locomotive; Snow; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-010</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-011</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lee's Garage</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1933</dc:date><dc:description>Esten Lee's garage in Deary with three men behind the counter. Left to right - Andrew Carlson, Esten Lee, Jack Brown.  Automobile tires are stored overhead.  A sign on the wall reads &quot;Cash Makes No Enemies.&quot;</dc:description>
+                    <dc:subject>Tires; Garage; Cap; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-011</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-012</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Gust Reiber in McConnon's Remedies wagon</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1912</dc:date><dc:description>Gust Reiber, Deary, salesman for McCannon Products, in McConnon's Remedies horse drawn wagon front of the old Flodin home on Dry Ridge.</dc:description>
+                    <dc:subject>Remedies; Toilet Articles; McConnon's; Horse Drawn; Cart</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-012</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-013</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Alex's Mexican-American Food</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978</dc:date><dc:description>Deary, Alex's Cafe, formerly blacksmith's shop. A car and a truck are in front of the business.</dc:description>
+                    <dc:subject>7-Up; Mexican-American; Resteraunt; Food; Blacksmith</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-013</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-014</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>U.S. Post Office</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1993</dc:date><dc:description>Former building of the Latah County State Bank in Deary, Idaho. Photographed site of the United States Postal Office in Deary, Idaho 83823. This photograph is the head-on image of the building</dc:description>
+                    <dc:subject>Bank; Post Office; Deary; Idaho; Flags</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-014</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-015</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>United States Post Office</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1993</dc:date><dc:description>Former building of the Latah County State Bank in Deary, Idaho. Photographed site of the United States Postal Office in Deary, Idaho 83823. This diagonal view photograph was taken for the County Historical Site Survey.</dc:description>
+                    <dc:subject>Bank; Post Office; Deary; Idaho; Flags</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-015</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-017</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Latah County State Bank</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1890</dc:date><dc:description>Latah County State Bank, Deary Idaho. Brick building with dirt roads around it. A boardwalk can be seen in front. This was the only building on this block to survive the fire of October of 1923.</dc:description>
+                    <dc:subject>Bank; Latah County; Deary; Idaho; Boardwalk</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-017</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-021</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Library</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1988</dc:date><dc:description>Interior of the new library in Deary, Idaho. This photogrpah was taken in conjunction with the new library opening in 1988.</dc:description>
+                    <dc:subject>Library; Interior; Deary; Idaho; Books; Table</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-021</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-021.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-022</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Library of Deary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1988</dc:date><dc:description>Local residents using the library collections in Deary, Idaho.</dc:description>
+                    <dc:subject>Library; Interior; Deary; Idaho; Books</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-022</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-022.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-023</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Library Collections Desk</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1988</dc:date><dc:description>Collections desk inside the library at Deary, Idaho. A smiling employee or volunteer poses for the photograph.</dc:description>
+                    <dc:subject>Library; Interior; Deary; Idaho; Snoopy; Microfilm</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-023</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-023.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-024</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Library - Exterior</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1988</dc:date><dc:description>Exterior of the Deary Library with a flagpole and a sign claiming &quot;We're OPEN&quot;</dc:description>
+                    <dc:subject>Library; Exterior; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-03-024</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-03-024.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Private residence in winter</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1940</dc:date><dc:description>Private home in Deary on a snowy winter day/  Hill with trees in background, fence is partially buried in snow.</dc:description>
+                    <dc:subject>Home; Trees; Hillside; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Texas Ridge and Femreite family</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1916</dc:date><dc:description>Home and outbuildings on Texas Ridge in 1916, Henry and Laura Femreite and baby Garfield pose in front of a team of horses hitched to a grain drill.</dc:description>
+                    <dc:subject>Home; Trees; Cattle; Horses; Rural; Deary</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Anton Lee home</dc:title>
+                    <dc:creator>Anton Lee</dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Anton Lee home in Deary, with photo studio upstairs.  Four men are posing, hats are on the ground, all are holding either rifles or some type of tool.  Pick axes and bags are on the ground.</dc:description>
+                    <dc:subject>Photographer studio; Home; Rifles; Equipment; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-004</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Axtell place at Stanford</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1895</dc:date><dc:description>Axtell place at Stanford (pre railroad) - between Yale and Avon.</dc:description>
+                    <dc:subject>Axtell family; Rural; Farm; Homesteading; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-004</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-006</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Orvik home on Big Bear Ridge</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978</dc:date><dc:description>After remodeling - the Orvik homeplace on Big Bear Ridge.</dc:description>
+                    <dc:subject>Orvik family; Rural; Home; Big Bear Ridge; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-006</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-007</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Orvik home on Big Bear Ridge in winter</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1970</dc:date><dc:description>Before remodeling - the Orvik homeplace on Big Bear Ridge.</dc:description>
+                    <dc:subject>Orvik family; Rural; Home; Big Bear Ridge; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-05-007</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-05-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Post Office, 1978</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978-01</dc:date><dc:description>Deary Post Office plus adjoining buildings</dc:description>
+                    <dc:subject>Post Office; Brick buildings; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Zion Lutheran Church</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978-01</dc:date><dc:description>Zion Lutheran Church in the winter</dc:description>
+                    <dc:subject>Church; Snow; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Community Church</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1978-01</dc:date><dc:description>Community Church in Deary with patches of snow on the ground</dc:description>
+                    <dc:subject>Church; Snow; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-004</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary High School Basketball Team</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1933</dc:date><dc:description>Deary High School Basketball Team, 1933. Back row left to right:  Bob Morton, Walt Mallery, Norman Nelson, Billy King, Howard Parks.  Front row, left to right:  Coach Huddleson, Boyd Beckett, Darrell Waide, Carl Nelson, Louis Contos.</dc:description>
+                    <dc:subject>Sports; Basketball; Team; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-004</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-005</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary School</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1911</dc:date><dc:description>Deary School.  The lower floor was constructed in 1908, the upper in 1911.  Two outbuildings appear behind the school.</dc:description>
+                    <dc:subject>School; Windows; Cupola; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-005</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-006</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary School in 1908</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1908</dc:date><dc:description>Deary School in 1908 with students and teachers standing in snow in front of the school.</dc:description>
+                    <dc:subject>School; Snow; Winter; Students; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-006</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-007</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary High School Basketball Team in 1940</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1940</dc:date><dc:description>Deary High School Basketball Team.  Left to right:  Don Heweti (?), Jerry Lawrence, Bobby Jones, _________ Sanquist, Gordon Olson, Buck Granlund, David Guvvie, Albert Nelson, Coach Nelson</dc:description>
+                    <dc:subject>School; Basketball; Knee pads; Uniforms; Team; Deary</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-007</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-008</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary High School Students</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1923</dc:date><dc:description>Deary High School group picture, 1923.  Standing are Kermit Waide, Edna Thorall, Leonard Miller, Elmer Kulver, Jack Wybark, Ivy Smith, and Clair Gentry.  Seated are: Winifred Olson, Winnie Miller, and Ruth Olson.</dc:description>
+                    <dc:subject>School; Fashion; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-008</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-009</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary High School class photo, 1930</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1930</dc:date><dc:description>Deary High School class photo, 1930. Students are unidentified.</dc:description>
+                    <dc:subject>Students; Fashion; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-009</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-011</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary High School Basketball Team</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1950</dc:date><dc:description>Deary High School Basketball Team, 1950</dc:description>
+                    <dc:subject>Team; Basketball; Uniforms; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-011</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-015</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Community Church</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1950</dc:date><dc:description>Entrance to Deary Community Church</dc:description>
+                    <dc:subject>Church; Bell tower; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-015</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-016</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Library in 1990</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1990</dc:date><dc:description>Deary Library exterior with sign at edge of parking lot.</dc:description>
+                    <dc:subject>Library; Sign; Truck; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-016</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-016.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-017</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>United Brethren Church</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1955</dc:date><dc:description>United Brethren Church, Deary, ID - sign says United Brethren in Christ, a friendly church.</dc:description>
+                    <dc:subject>Church; Pine trees; Sign; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-017</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-023</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Library Construction</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1987</dc:date><dc:description>Construction of the Deary Library.</dc:description>
+                    <dc:subject>Library; Construction; Windows; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-023</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-023.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-024</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Old Deary Library</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1980</dc:date><dc:description>The old library in Deary with a porch and a sign in the front yard made of a cross section of a tree stump.</dc:description>
+                    <dc:subject>Library; Sign; Snow; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-06-024</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-06-024.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-07-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Pine Crest Cemetery Sign</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1980</dc:date><dc:description>Pine Crest Cemetery sign in the pines.</dc:description>
+                    <dc:subject>Cemetery; Sign; Pine trees; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-07-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-07-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-09-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Cornet Band</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1920</dc:date><dc:description>Deary Cornet Band sign is on a bass drum and three rows of male members are holding cornets, baritone horns, clarinet and drums.</dc:description>
+                    <dc:subject>Musical instruments; Band; Uniforms; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-09-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-09-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-09-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Chris Peterson, Woodcutter</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1910</dc:date><dc:description>Chris Peterson, Deary woodcutter, driving a motorized saw.</dc:description>
+                    <dc:subject>Buzz saw; Gears; Metal wheels; Engine; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-09-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-09-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-11-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Deary Quilters</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1939</dc:date><dc:description>Deary quilters group, the women who made a friendship quilt for Sam and Belle Sturman when the couple moved away in 1939. Includes Mrs. Clarence Sturman (Goldie), Mrs Sam Sturman, (Belle), Mrs John Sturman (Rose), Mrs Carl Johnson, Mrs. Drury, Mrs Louis Hansen (Amanda), Mrs Slocum, Ellie Miller, Bertha Alber, Viola Baker, Laura Femerite, Estelle Darr.</dc:description>
+                    <dc:subject>Women's group; Quilters; Fashion; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-11-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-11-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-11-004</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Avon Busy Bees</dc:title>
+                    <dc:creator>Spokesman-Review</dc:creator>
+                    <dc:date>1999-02-22</dc:date><dc:description>The Avon Busy Bees, a ladies' social club which met in the Avon Church, the only major building left in town. The Avon Busy Bees was originally formed in 1920 and were still meeting in 1999.  Four of the women are identified:  Marilyn Osterberg in blue top, center; Marie Hatke, in pink shirt to right of Marilyn; Grace Elliott in sunglasses next to Marie; Lynn Martin, next to Grace.</dc:description>
+                    <dc:subject>Women's group; Social club; Church; Children; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-11-004</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-11-004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-001</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Threshing grain</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1909</dc:date><dc:description>A grain threshing scene, showing a thresher/grain separator, straw stacks, sacked grain, and threshing crew of eleven.  William Asplund's outfit.</dc:description>
+                    <dc:subject>Harvesting; Farm work; Threshing machine; Rural; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-12-001</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-12-001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-002</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Steam thresher crew and cook wagon</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>1899</dc:date><dc:description>Harvest scene, showing steam engine and belt, cookwagon, horses, stacks of straw, steam thresher crew, and straw stackers (?) in the background.</dc:description>
+                    <dc:subject>Harvesting; Farm work; Horses; Cookwagon; Deary; Idaho</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-12-002</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-12-002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-003</oai:identifier> 
+                <oai:datestamp>2021-08-17</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Cut-over land</dc:title>
+                    <dc:creator>Dimond</dc:creator>
+                    <dc:date>1920</dc:date><dc:description>Cut-over land, as left by logger - selling for $20 per acre.</dc:description>
+                    <dc:subject>Timber; Logging; Trees; Deary</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>04-12-003</dc:identifier>
+                    <dc:identifier>https://latahcountyhistoricalsociety.github.io/deary-pilot/items/04-12-003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+    </ListRecords>
+</Repository>

@@ -1,0 +1,20 @@
+{ 
+    "title": "Deary Collection",
+    "url": "https://latahcountyhistoricalsociety.github.io/deary-pilot/",
+    "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-01-010.jpg", 
+    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "publisher": { 
+        "name": "Latah County Historical Society", 
+        "url": "https://www.latahcountyhistoricalsociety.org/", 
+        "logo": "/assets/img/lchs_website_logo.webp" 
+    },
+    "date_start": "1890",
+    "date_end": "1999",
+    "objects": {
+        "image/jpeg": "66"
+        
+    },
+    "data": "https://latahcountyhistoricalsociety.github.io/deary-pilot/assets/data/datapackage.json",
+    "last_build_date": "2021-08-17"
+}
+
