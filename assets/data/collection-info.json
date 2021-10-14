@@ -1,8 +1,8 @@
 { 
-    "title": "Deary Collection",
+    "title": "Historic Images of Deary",
     "url": "https://latahcountyhistoricalsociety.github.io/deary-pilot/",
     "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-01-010.jpg", 
-    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "description": "Historic photos of people, places, and events from Deary's founding to the twenty century.",
     "publisher": { 
         "name": "Latah County Historical Society", 
         "url": "https://www.latahcountyhistoricalsociety.org/", 
@@ -15,6 +15,6 @@
         
     },
     "data": "https://latahcountyhistoricalsociety.github.io/deary-pilot/assets/data/datapackage.json",
-    "last_build_date": "2021-08-17"
+    "last_build_date": "2021-10-14"
 }
 

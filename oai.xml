@@ -5,11 +5,11 @@
             xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
                                 http://www.openarchives.org/OAI/2.0/static-repository.xsd">
     <Identify>
-        <oai:repositoryName>Deary Collection</oai:repositoryName>
+        <oai:repositoryName>Historic Images of Deary</oai:repositoryName>
         <oai:baseURL>http://gateway.institution.org/oai/latahcountyhistoricalsociety.github.io/deary-pilot/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2021-08-17</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2021-10-14</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -49,7 +49,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -73,7 +73,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -97,7 +97,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-007</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -121,7 +121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-009</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -145,7 +145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-01-010</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -169,7 +169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -193,7 +193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -217,7 +217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -241,7 +241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-004</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -265,7 +265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-005</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -289,7 +289,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-006</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -313,7 +313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-007</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -337,7 +337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-008</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -361,7 +361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-010</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -385,7 +385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-011</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -409,7 +409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-02-013</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -433,7 +433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -457,7 +457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -481,7 +481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -505,7 +505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-004</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -529,7 +529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-005</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -553,7 +553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-006</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -577,7 +577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-007</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -601,7 +601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-008</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -625,7 +625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-009</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -649,7 +649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-010</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -673,7 +673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-011</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -697,7 +697,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-012</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -721,7 +721,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-013</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -745,7 +745,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-014</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -769,7 +769,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-015</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -793,7 +793,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-017</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -817,7 +817,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-021</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -841,7 +841,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-022</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -865,7 +865,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-023</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -889,7 +889,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-03-024</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -913,7 +913,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -937,7 +937,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -961,7 +961,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -985,7 +985,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-004</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1009,7 +1009,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-006</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1033,7 +1033,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-05-007</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1057,7 +1057,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1081,7 +1081,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1105,7 +1105,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1129,7 +1129,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-004</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1153,7 +1153,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-005</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1177,7 +1177,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-006</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1201,7 +1201,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-007</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1225,7 +1225,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-008</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1249,7 +1249,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-009</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1273,7 +1273,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-011</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1297,7 +1297,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-015</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1321,7 +1321,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-016</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1345,7 +1345,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-017</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1369,7 +1369,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-023</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1393,7 +1393,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-06-024</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1417,7 +1417,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-07-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1441,7 +1441,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-09-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1465,7 +1465,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-09-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1489,7 +1489,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-11-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1513,7 +1513,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-11-004</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1537,7 +1537,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-001</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1561,7 +1561,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-002</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1585,7 +1585,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:latahcountyhistoricalsociety.github.io:deary-pilot/04-12-003</oai:identifier> 
-                <oai:datestamp>2021-08-17</oai:datestamp>
+                <oai:datestamp>2021-10-14</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 

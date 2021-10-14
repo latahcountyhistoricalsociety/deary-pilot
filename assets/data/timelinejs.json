@@ -3,11 +3,11 @@
         "media": {
           "url": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-01-010.jpg",
           "caption": null,
-          "credit": "Deary Collection"
+          "credit": "Historic Images of Deary"
         },
         "text": {
-          "headline": "Deary Collection Timeline",
-          "text": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+          "headline": "Historic Images of Deary Timeline",
+          "text": "Historic photos of people, places, and events from Deary's founding to the twenty century."
         }
     },
     "events": [
