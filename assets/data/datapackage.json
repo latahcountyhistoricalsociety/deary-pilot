@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "historic-images-of-deary-data",
-    "title": "Historic Images of Deary Data",
-    "description": "Metadata and data derived from Historic Images of Deary. Historic photos of people, places, and events from Deary&#39;s founding to the twenty century.",
+    "name": "historic-images-of-deary-idaho-data",
+    "title": "Historic Images of Deary, Idaho Data",
+    "description": "Metadata and data derived from Historic Images of Deary, Idaho. Historic photos of people, places, and events from Deary&#39;s founding to the twenty century.",
     "keywords":  ["idaho","history","inland northwest"],
     "homepage": "https://latahcountyhistoricalsociety.github.io/deary-pilot/",
     "contributors": [
@@ -25,7 +25,7 @@
         {
             "name": "facets-json",
             "path": "facets.json",
-            "title": "Historic Images of Deary Metadata Facets",
+            "title": "Historic Images of Deary, Idaho Metadata Facets",
             "description":"Unique values and counts of metadata facet fields.",
             "format":"json",
             "profile": "data-resource"
@@ -34,7 +34,7 @@
         {
             "name": "subject-csv",
             "path": "subjects.csv",
-            "title": "Historic Images of Deary metadata subject counts in csv",
+            "title": "Historic Images of Deary, Idaho metadata subject counts in csv",
             "description": "Unique values and counts of metadata subject fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -61,7 +61,7 @@
         {
             "name": "subjects-json",
             "path": "subjects.json",
-            "title": "Historic Images of Deary  metadata subject counts in json",
+            "title": "Historic Images of Deary, Idaho  metadata subject counts in json",
             "description":"Unique values and counts of metadata subject fields.",
             "format":"json",
             "profile": "data-resource"
@@ -72,7 +72,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "Historic Images of Deary timeline metadata",
+            "title": "Historic Images of Deary, Idaho timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -80,16 +80,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "Historic Images of Deary full metadata in csv",
-            "description": "Complete metadata export for Historic Images of Deary objects.",
+            "title": "Historic Images of Deary, Idaho full metadata in csv",
+            "description": "Complete metadata export for Historic Images of Deary, Idaho objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "Historic Images of Deary full metadata in json",
-            "description": "Complete metadata export for Historic Images of Deary objects.",
+            "title": "Historic Images of Deary, Idaho full metadata in json",
+            "description": "Complete metadata export for Historic Images of Deary, Idaho objects.",
             "format":"json",
             "profile":"data-resource"
         }

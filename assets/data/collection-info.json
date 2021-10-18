@@ -1,5 +1,5 @@
 { 
-    "title": "Historic Images of Deary",
+    "title": "Historic Images of Deary, Idaho",
     "url": "https://latahcountyhistoricalsociety.github.io/deary-pilot/",
     "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-01-010.jpg", 
     "description": "Historic photos of people, places, and events from Deary's founding to the twenty century.",
@@ -15,6 +15,6 @@
         
     },
     "data": "https://latahcountyhistoricalsociety.github.io/deary-pilot/assets/data/datapackage.json",
-    "last_build_date": "2021-10-14"
+    "last_build_date": "2021-10-18"
 }
 
