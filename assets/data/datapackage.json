@@ -3,7 +3,7 @@
     "name": "historic-images-of-deary-idaho-data",
     "title": "Historic Images of Deary, Idaho Data",
     "description": "Metadata and data derived from Historic Images of Deary, Idaho. Historic photos of people, places, and events from Deary&#39;s founding to the twenty century.",
-    "keywords":  ["idaho","history","inland northwest"],
+    "keywords":  ["idaho","history","inland northwest","Deary, ID"],
     "homepage": "https://latahcountyhistoricalsociety.github.io/deary-pilot/",
     "contributors": [
         {
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-01-010.jpg",
+    "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/deary/04-02-002.jpg",
     "licenses": [
         {
             "name": "CC0-1.0",
