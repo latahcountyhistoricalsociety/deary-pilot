@@ -25,14 +25,14 @@ tagline: Photos from the Latah County Historical Society Community Archives
 # this description might appear in search result lists, keep around 160 characters max
 description: "Historic photos of people, places, and events from Deary's founding to the twenty century."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;history;inland northwest;Deary, ID
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
 organization-name: "Latah County Historical Society"
 organization-link: https://www.latahcountyhistoricalsociety.org/
 organization-logo-banner: /assets/img/lchs_website_logo.webp
-organization-logo-nav: /assets/img/lchs_website_logo.webp
+organization-logo-nav: /assets/img/lchs_logo_stacked_white.png
 
 ##########
 # COLLECTION SETTINGS
